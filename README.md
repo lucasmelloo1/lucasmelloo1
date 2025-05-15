@@ -19,5 +19,5 @@ Sou iniciante na área de programação e tecnologia. Estou começando a aprende
 
 ## 🌐 Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/lucasmelloo1_]
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/lucasmelloo1_])
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-mello-444283305)
