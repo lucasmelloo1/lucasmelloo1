@@ -9,7 +9,7 @@ Sou iniciante na área de programação e tecnologia. Estou começando a aprende
 ## 📚 O que estou aprendendo
 
 - Lógica de programação   
-- HTML, CSS, C 
+- HTML, CSS,Typescript, C, Java
 
 ## 🎯 Meus objetivos
 
