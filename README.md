@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
-🎓 Atualmente estou no 2º semestre de Engenharia de Software e explorando o universo da programação com muita curiosidade e vontade de aprender.
+🎓 Atualmente estou no 3º semestre de Engenharia de Software e explorando o universo da programação com muita curiosidade e vontade de aprender.
 
 ## 🚀 Sobre mim
 
